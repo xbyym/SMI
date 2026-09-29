@@ -18,7 +18,7 @@ As historical memory grows, managing spatial memory becomes increasingly complex
 
 Experiments across multiple baselines, benchmarks, and world-model backbones demonstrate improvements in **memory sparsity, spatial consistency, and generation stability**.
 
-![SMI overview: organizing spatial memory, retrieving relevant observations, and improving consistency and stability.](https://spatial-memory-intelligence.github.io/assets/teaser.png)
+![SMI overview: organizing spatial memory, retrieving relevant observations, and improving consistency and stability.](File/teaser.png)
 
 ## Method
 
@@ -33,7 +33,7 @@ SMI maintains persistent spatial memory through four coordinated operations:
 
 Dedicated instructions and supervision teach the MLLM the semantic and spatial judgments required by each operation. Together, these operations support both memory updates and retrieval throughout long-horizon generation.
 
-![SMI framework: an understanding model coordinates four atomic operations around persistent spatial memory.](https://spatial-memory-intelligence.github.io/assets/framework.png)
+![SMI framework: an understanding model coordinates four atomic operations around persistent spatial memory.](File/framework.png)
 
 ## Video Comparisons
 
@@ -48,7 +48,7 @@ Compare SMI with Base and, where available, FramePack, Deep Forcing, MoC, VMem, 
 
 ## Release Status
 
-This repository currently contains the project introduction. The research implementation has not been uploaded yet.
+This repository currently contains the project introduction and supporting figures in `File/`. The research implementation has not been uploaded yet.
 
 | Resource | Status |
 | --- | --- |
