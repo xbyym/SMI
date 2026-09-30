@@ -37,18 +37,15 @@ Dedicated instructions and supervision teach the MLLM the semantic and spatial j
 
 ## Video Comparisons
 
-The project website provides synchronized comparisons on **HY1.5** and **Wan2.2**, organized by:
+The project website presents synchronized, side-by-side video comparisons, grouped by world-model backbone: **HY1.5** and **Wan2.2**.
 
-- **Spatial consistency:** preserving scene structure when revisiting previously observed regions.
-- **Generation stability:** maintaining coherent generation over longer trajectories.
-
-Compare SMI with Base and, where available, FramePack, Deep Forcing, MoC, VMem, and MemFlow. Red-box highlights identify selected visible inconsistencies.
+Each example compares SMI with Base. Selected examples also include FramePack, Deep Forcing, MoC, VMem, and MemFlow. Dynamic red boxes highlight selected spatial and structural inconsistencies.
 
 **[Explore the interactive comparisons →](https://spatial-memory-intelligence.github.io/#demos)**
 
 ## Release Status
 
-This repository currently contains the project introduction and supporting figures in `File/`. The research implementation has not been uploaded yet.
+This public repository currently provides the project overview and supporting figures in `File/`. Training, inference, and evaluation code is coming soon.
 
 | Resource | Status |
 | --- | --- |
@@ -62,8 +59,8 @@ Installation requirements, runnable examples, and reproduction instructions will
 
 ## Authors
 
-[Ying Yang](https://github.com/xbyym)\*, [Guiyu Zhang](https://grenoble-zhang.github.io/)\*, [Lianghua Huang](https://github.com/huanglianghua), [Chang Nie](https://github.com/Clare-Nie), [Chenyang Si](https://chenyangsi.top/), [Haofan Wang](https://haofanwang.github.io/), [Shaoshuai Shi](https://shishaoshuai.com/), and [Li Jiang](https://llijiang.github.io/)†.
+[Ying Yang](https://github.com/xbyym)<sup>1,*</sup>, [Guiyu Zhang](https://grenoble-zhang.github.io/)<sup>1,2,*</sup>, [Lianghua Huang](https://github.com/huanglianghua)<sup>2</sup>, [Chang Nie](https://github.com/Clare-Nie)<sup>4</sup>, [Chenyang Si](https://chenyangsi.top/)<sup>4</sup>, [Haofan Wang](https://haofanwang.github.io/)<sup>5</sup>, [Shaoshuai Shi](https://shishaoshuai.com/)<sup>6</sup>, and [Li Jiang](https://llijiang.github.io/)<sup>1,3,†</sup>.
 
 \* Equal contribution. † Corresponding author.
 
-The Chinese University of Hong Kong, Shenzhen · Alibaba Group · Nanjing University · Lovart AI · Voyager Research, Didi Chuxing
+<sup>1</sup> The Chinese University of Hong Kong, Shenzhen · <sup>2</sup> Alibaba Group · <sup>3</sup> Shenzhen Loop Area Institute · <sup>4</sup> Nanjing University · <sup>5</sup> Lovart AI · <sup>6</sup> Voyager Research, Didi Chuxing
