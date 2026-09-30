@@ -6,8 +6,6 @@
 
 [Project Website](https://spatial-memory-intelligence.github.io/) · [Video Comparisons](https://spatial-memory-intelligence.github.io/#demos) · [Method](https://spatial-memory-intelligence.github.io/#method)
 
-**Code coming soon.**
-
 </div>
 
 ## Overview
