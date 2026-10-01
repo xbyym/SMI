@@ -6,6 +6,8 @@
 
 [Project Website](https://spatial-memory-intelligence.github.io/) · [Video Comparisons](https://spatial-memory-intelligence.github.io/#demos) · [Method](https://spatial-memory-intelligence.github.io/#method)
 
+We are currently preparing the code, datasets, model weights, and other materials for release.
+
 </div>
 
 ## Overview
